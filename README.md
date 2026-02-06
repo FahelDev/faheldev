@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Habilidades / Skills</h2>
+<h2 align="left">Habilidades / Skill's</h2>
 
 ###
 
