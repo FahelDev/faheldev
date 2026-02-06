@@ -1,4 +1,4 @@
-<h1 align="left">Vamos lá!</h1>
+<h1 align="left">Let's Go! / Vamos Lá!</h1>
 
 ###
 
